@@ -1,0 +1,11 @@
+{
+    "name": "Npm Package Workflow",
+    "description": "Contains the workflow with the steps to generate a npm package.",
+    "iconName": "npm",
+    "categories": [
+        "JavaScript"
+    ],
+    "filePatterns": [
+        "package.json$"        
+    ]
+}
