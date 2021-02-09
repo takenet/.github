@@ -1,6 +1,6 @@
 {
     "name": "Npm Package Workflow",
-    "description": "Contains the workflow with the steps to generate a npm package.",
+    "description": "Contains the workflow with the steps to generate a npm package. Using nom semantic-release to publish the package. ",
     "iconName": "npm",
     "categories": [
         "JavaScript"
